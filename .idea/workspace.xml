@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8955efbe-6521-4075-816b-2cbb046dd9c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Zomato.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/Zomato.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/chatbox-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/chatbox-icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/temp.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/temp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Zomato.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Zomato.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/temp.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/temp.html" afterDir="false" />
-    </list>
+    <list default="true" id="8955efbe-6521-4075-816b-2cbb046dd9c8" name="Changes" comment="Final before deployment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642614133303</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final before deployment">
+      <created>1642687169824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642687169824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -69,5 +69,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final before deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final before deployment" />
   </component>
 </project>
