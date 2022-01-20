@@ -21,7 +21,7 @@ nav{
 }
 nav .logo{
   color: #fff;
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 600;
 }
 nav ul{
@@ -35,7 +35,7 @@ nav ul li{
 nav ul li a{
   color: #ffffff;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   padding: 8px 15px;
   border-radius: 5px;
@@ -118,3 +118,10 @@ input[type="checkbox"]{
   font-weight: 700;
 }
 
+.tb{
+    margin: 200px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
