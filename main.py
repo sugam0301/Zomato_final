@@ -27,24 +27,32 @@ def predict():
 
 @app.route('/pred', methods=['POST'])
 def pred():
-    if (request.method=='POST'):
-            city = int(request.form['City'])
-            location = int(request.form['Location'])
-            cuisine = int(request.form['Cuisine'])
-            no_of_reviews = int(request.form['No. of Reviews'])
-            price = int(request.form['Price'])
+    if (request.method == 'POST'):
+        city = int(request.form['City'])
+        location = int(request.form['Location'])
+        cuisine = int(request.form['Cuisine'])
+        no_of_reviews = int(request.form['No. of Reviews'])
+        price = int(request.form['Price'])
 
-            final_features = [np.array((city, location, cuisine, no_of_reviews, price))]
-            # std_data = scaler.transform(final_features)
+        final_features = [np.array((city, location, cuisine, no_of_reviews, price))]
+        # std_data = scaler.transform(final_features)
 
-            prediction = model.predict(final_features)
-            output = round(prediction[0], 2)
+        prediction = model.predict(final_features)
+        output = round(prediction[0], 2)
 
-            return render_template('temp.html', output=f"Predicted Rating is: {str(output)}/5")
-    else:
+        if output <= 3.2:
+            return render_template('temp.html', output=f"Predicted Rating is :  {str(output)}/5 \U0001F61E")
+        elif 3.2 < output < 3.6:
+            return render_template('temp.html', output=f"Predicted Rating is :  {str(output)}/5 \U0001F610")
+        elif 3.6 < output <= 3.9:
+            return render_template('temp.html', output=f"Predicted Rating is :  {str(output)}/5 \U0001F607")
+        elif 3.9 < output <= 4.2:
+            return render_template('temp.html', output=f"Predicted Rating is :  {str(output)}/5 \U0001F60B")
+        elif 4.2 < output <= 4.8:
+            return render_template('temp.html', output=f"Predicted Rating is :  {str(output)}/5 \U0001F63B")
+        else:
             return render_template('temp.html')
+
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
-
-
