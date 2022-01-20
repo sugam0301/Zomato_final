@@ -4,8 +4,11 @@
   color: #000;
 }
 body {
-  background-image: url("zomato_cook.jpg") ;
+  background-image: url("zomato.jpg") ;
 }
+option:hover {
+          background-color: rgb(180, 14, 69);
+        }
 
 .tab {
   margin: auto;

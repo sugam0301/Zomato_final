@@ -9,6 +9,10 @@ select.decorated option:hover {
     box-shadow: 0 0 10px 100px #bd1552 inset;
 }
 
+option:hover {
+   background-color: rgb(180, 14, 69);
+}
+
 nav{
   display: flex;
   height: 80px;
@@ -118,10 +122,4 @@ input[type="checkbox"]{
   font-weight: 700;
 }
 
-.tb{
-    margin: 200px;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-    font-size: 30px;
-}
+
