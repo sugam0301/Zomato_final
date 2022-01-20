@@ -40,7 +40,7 @@ def pred():
             prediction = model.predict(final_features)
             output = round(prediction[0], 2)
 
-            return render_template('result.html', output=f"Predicted Rating is: {str(output)}")
+            return render_template('temp.html', output=f"Predicted Rating is: {str(output)}")
     else:
             return render_template('temp.html')
 
