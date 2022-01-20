@@ -8,6 +8,7 @@
 select.decorated option:hover {
     box-shadow: 0 0 10px 100px #bd1552 inset;
 }
+
 nav{
   display: flex;
   height: 80px;
@@ -116,3 +117,4 @@ input[type="checkbox"]{
   font-size: 40px;
   font-weight: 700;
 }
+
