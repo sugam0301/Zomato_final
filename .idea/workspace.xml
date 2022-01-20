@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8955efbe-6521-4075-816b-2cbb046dd9c8" name="Changes" comment="Final before deployment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Zomato.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/Zomato.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chatbox-icon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/zomatoback.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/temp.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/temp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zomato_jalandhar.py" beforeDir="false" afterPath="$PROJECT_DIR$/zomato_jalandhar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642695974146</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Final before deployment">
+      <created>1642704808756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642704808756</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
