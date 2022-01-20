@@ -6,6 +6,7 @@
 body {
   background-image: url("zomato_cook.jpg") ;
 }
+
 .tab {
   margin: auto;
   font-size: 25px;
@@ -33,7 +34,7 @@ body {
 .tdB input {
   width: 18%;
   margin-top: 40px;
-  background: #0c9462;
+  background: #c4102e;
   color: #fff;
   margin-right: 218px;
 }

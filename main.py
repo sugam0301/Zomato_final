@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return render_template('Zomato.html')
+    return render_template('temp.html')
 
 
 @app.post("/predict")
@@ -42,7 +42,7 @@ def pred():
 
             return render_template('result.html', output=f"Predicted Rating is: {str(output)}")
     else:
-            return render_template('Zomato.html')
+            return render_template('temp.html')
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
