@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8955efbe-6521-4075-816b-2cbb046dd9c8" name="Changes" comment="Final before deployment">
-      <change beforePath="$PROJECT_DIR$/static/temp.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/temp.css" afterDir="false" />
-    </list>
+    <list default="true" id="8955efbe-6521-4075-816b-2cbb046dd9c8" name="Changes" comment="Final before deployment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,28 @@
       <option name="project" value="LOCAL" />
       <updated>1642687867943</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final before deployment">
+      <created>1642690455457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690455457</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final before deployment">
+      <created>1642690461117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690461117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final before deployment">
+      <created>1642690468682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690468682</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
