@@ -27,8 +27,8 @@
      "patterns": ["Ludhiana city","Ludhiana","Ludhiana","Ludhiana", "I live in Ludhiana", "I am resident of Ludhiana","2. Ludhiana"],
      "responses": ["Where do you prefer eating? 1. Sarabha Nagar 2. Gurudev Nagar 3. Civil Lines 4. BRS Nagar 5. Rajguru Nagar 6. Dugri 7. PAU 8. Ludhiana Junction 9. Pakhowal Road 10. Aggar Nagar 11. Industrial Area 12. Sector 32 13. Samrala Chowk 14. Janak Puri 15. Hargobind Nagar 15. Jawahar Nagar"]
     },
-    {"tag": "Amristar",
-     "patterns": ["Amristar city","Amristar","Amristar","Amristar", "I live in Amristar", "I am resident of Amristar","3. Amristar"],
+    {"tag": "Amritsar",
+     "patterns": ["Amritsar city","Amritsar","Amritsar","Amritsar", "I live in Amritsar", "I am resident of Amritsar","3. Amritsar"],
      "responses": ["Where do you wish eating food? 1. Ranjit Avenue 2. Town Hall 3. White Avenue 4. Basant Nagar 5. Lawrence Road 6. INA Colony 7. GT Road 8. Kabir Park 9. Mall Road 10. Rani ka bagh 11. Ranjit Nagar 12. Hathi gate 13. Amritsar Contonment 14. GNDU Area 15. Mohan Nagar 16. Azad Nagar 17. Maquboolpura 18. Amritsar Junction 19. Modern Colony 20. Shakti Nagar"]
     }
    
