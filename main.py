@@ -56,3 +56,6 @@ def pred():
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
+
+# Heroku Procfile rule
+# https://medium.com/@gitaumoses4/deploying-a-flask-application-on-heroku-e509e5c76524
